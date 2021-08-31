@@ -1,0 +1,16 @@
+F:\DOTNET\Icomparabledemo\Icomparabledemo\bin\Debug\net5.0\Icomparabledemo.exe
+F:\DOTNET\Icomparabledemo\Icomparabledemo\bin\Debug\net5.0\Icomparabledemo.deps.json
+F:\DOTNET\Icomparabledemo\Icomparabledemo\bin\Debug\net5.0\Icomparabledemo.runtimeconfig.json
+F:\DOTNET\Icomparabledemo\Icomparabledemo\bin\Debug\net5.0\Icomparabledemo.runtimeconfig.dev.json
+F:\DOTNET\Icomparabledemo\Icomparabledemo\bin\Debug\net5.0\Icomparabledemo.dll
+F:\DOTNET\Icomparabledemo\Icomparabledemo\bin\Debug\net5.0\ref\Icomparabledemo.dll
+F:\DOTNET\Icomparabledemo\Icomparabledemo\bin\Debug\net5.0\Icomparabledemo.pdb
+F:\DOTNET\Icomparabledemo\Icomparabledemo\obj\Debug\net5.0\Icomparabledemo.csproj.AssemblyReference.cache
+F:\DOTNET\Icomparabledemo\Icomparabledemo\obj\Debug\net5.0\Icomparabledemo.GeneratedMSBuildEditorConfig.editorconfig
+F:\DOTNET\Icomparabledemo\Icomparabledemo\obj\Debug\net5.0\Icomparabledemo.AssemblyInfoInputs.cache
+F:\DOTNET\Icomparabledemo\Icomparabledemo\obj\Debug\net5.0\Icomparabledemo.AssemblyInfo.cs
+F:\DOTNET\Icomparabledemo\Icomparabledemo\obj\Debug\net5.0\Icomparabledemo.csproj.CoreCompileInputs.cache
+F:\DOTNET\Icomparabledemo\Icomparabledemo\obj\Debug\net5.0\Icomparabledemo.dll
+F:\DOTNET\Icomparabledemo\Icomparabledemo\obj\Debug\net5.0\ref\Icomparabledemo.dll
+F:\DOTNET\Icomparabledemo\Icomparabledemo\obj\Debug\net5.0\Icomparabledemo.pdb
+F:\DOTNET\Icomparabledemo\Icomparabledemo\obj\Debug\net5.0\Icomparabledemo.genruntimeconfig.cache
